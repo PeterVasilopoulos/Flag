@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.flag {
+    width: 1000px;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    height: 600px;
+    border: solid 2px black;
+    margin: 10px;
+}
+
+.bar {
+    flex: 1;
+    width: 200px;
+}
+
+.bar1 {
+    background-color: #006341;
+}
+
+.bar2 {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.symbol {
+    height: 200px;
+}
+
+.bar3 {
+    background-color: #C8102E;
+}
