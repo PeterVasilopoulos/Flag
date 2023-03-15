@@ -5,7 +5,7 @@
 
 .flag {
     width: 1000px;
-    
+    margin: 10px auto;
 }
 
 .container {
@@ -13,7 +13,6 @@
     justify-content: space-between;
     height: 600px;
     border: solid 2px black;
-    margin: 10px;
 }
 
 .bar {
